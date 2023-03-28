@@ -2,7 +2,8 @@
 
 # Install dependencies
 
-```pip install pandas 
+```
+pip install pandas 
 ```
 # Replace the name of excel folder, name of NFT and description in the script
 
