@@ -1,2 +1,13 @@
 # metadata-script-python
-Script for Metadata Creation
+
+# Install dependencies
+
+```pip install pandas 
+```
+# Replace the name of excel folder, name of NFT and description in the script
+
+# Run
+
+```
+python metadata creation script.py
+```
